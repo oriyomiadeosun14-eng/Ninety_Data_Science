@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 
 dependencies = [
-    "marimo>=0.19.10",
+    "marimo>=0.22.4",
     "polars>=0.20.0",
     "plotly>=5.18.0",
     "pyzmq>=27.1.0",
