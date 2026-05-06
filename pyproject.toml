@@ -17,4 +17,7 @@ dependencies = [
     "kaleido>=1.2.0",
     "lets-plot>=4.9.0",
     "palmerpenguins>=0.1.6",
+    "matplotlib>=3.10.9",
+    "matplotlib-inline>=0.2.1",
+    "ipython>=9.13.0",
 ]
